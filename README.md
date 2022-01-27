@@ -2,7 +2,7 @@
 
 
 ### Hi there, I'm Brecht Dewilde 👋
-I am a young, enthusiastic and ambitious person Data Scientist
+I am a young, enthusiastic and ambitious Data Scientist
 <img height="15" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/jupyter.svg" /> that develops flutter apps 
 <img height="15" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" /> in his spare time.  
 
